@@ -1,0 +1,4 @@
+Job ID#: 1620406090067
+Input file C:\Users\camenaresd\OneDrive - Alma College\Documents\Research\Students\Bannon\VULPES_fasta.txt
+5596 milliseconds of processing time
+- or about 0 minutes
